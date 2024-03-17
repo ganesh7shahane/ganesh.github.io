@@ -18,7 +18,7 @@ repository               : "ganesh7shahane/ganesh.github.io"
 
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.PNG"
   name             : "Ganesh Shahane, PhD"
   pronouns         : # example: "she/her"  
   bio              : "AI and Physics driven Drug Discovery"
