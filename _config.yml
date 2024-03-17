@@ -21,7 +21,7 @@ repository               : "ganesh7shahane/ganesh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   name             : "Ganesh Shahane, PhD"
   pronouns         : # example: "she/her"  
   bio              : "AI and Physics driven Drug Discovery"
